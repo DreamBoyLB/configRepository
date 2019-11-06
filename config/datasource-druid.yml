@@ -4,4 +4,3 @@ spring:
     url: jdbc:mysql://localhost:3307/demo?characterEncoding=UTF-8&useSSL=false
     username: root
     password: root
-    type: com.alibaba.druid.pool.DruidDataSource
