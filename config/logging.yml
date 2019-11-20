@@ -1,6 +1,4 @@
 logging: 
-  path: E:/log/
-  file: E:/log/demo.log
   level:
     root: WARN
   pattern: 
